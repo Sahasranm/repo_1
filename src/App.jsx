@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      From the Proj
+      From PROCESS the Proj
     </>
   )
 }
