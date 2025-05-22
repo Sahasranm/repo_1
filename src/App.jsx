@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      From the help Proj
+      From the Proj
     </>
   )
 }
